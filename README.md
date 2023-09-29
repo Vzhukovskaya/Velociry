@@ -1,1 +1,1 @@
-GitHub Pages - Velociry https://vzhukovskaya.github.io/Velociry/
+GitHub Pages - Velocity https://vzhukovskaya.github.io/Velociry/
