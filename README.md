@@ -18,7 +18,7 @@ This project utilizes a range of modern technologies:
 ## Demo
 Experience Velocity firsthand:
 
-[Click here for a live demo](#your-demo-link)
+[Click here for a live demo]([#your-demo-link](https://vzhukovskaya.github.io/Velocity/))
 
 ## Setup and Installation
 To set up Velocity locally:
